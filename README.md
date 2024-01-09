@@ -6,8 +6,11 @@ This project focuses on data visualization of the ISL (Indian Super League datas
 📌 **Features**
 
 Interactive Visualizations 🎛: Engage users with interactive charts and graphs for exploration.
+
 Season-wise Analysis 🗓: Visualize data based on different seasons to observe trends and patterns over the years.
+
 Team Performance Metrics 📈: Gain insights into team performances, including wins, losses, goals scored, etc.
+
 Player Statistics 🏃‍♂: Showcase top-performing players, goal scorers, assists, and other player-related metrics.
 
 
@@ -29,6 +32,7 @@ Clone the repository:
 Download
 
 Copy code
+
 _git clone https://github.com/ANKIT-BISWAS-20/ISL-DATASET.git_
 
 Run the Jupyter Notebook or the main visualization script to generate the visualizations.
@@ -37,6 +41,7 @@ Run the Jupyter Notebook or the main visualization script to generate the visual
 🔧 **Usage**
 
 Open the Jupyter Notebook College_Project_MSIT_ISL.ipynb to explore the data and view the initial visualizations.
+
 Run the main visualization script to generate the final interactive visualizations.
 
 🤝 **Contributing**
@@ -51,4 +56,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 
 Thanks to ISL for providing the dataset.
+
 Inspiration from other sports data visualization projects and resources.
