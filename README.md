@@ -33,7 +33,9 @@ Download
 
 Copy code
 
-_git clone https://github.com/ANKIT-BISWAS-20/ISL-DATASET.git_
+```shellscript
+git clone https://github.com/ANKIT-BISWAS-20/ISL-DATASET.git
+```
 
 Run the Jupyter Notebook or the main visualization script to generate the visualizations.
 
